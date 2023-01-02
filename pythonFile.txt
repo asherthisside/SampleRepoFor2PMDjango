@@ -1,0 +1,8 @@
+This is a text file.
+This was made to write python code but guess what? 
+You can't write code in txt file LOL.
+This file has 4 lines in total.
+wait, no. There is 5th line as well.
+I added this 6th line with the help of python.
+I added this 6th line with the help of python.
+Python helped me to add this 7th line as well.THIS IS APPENDED IN THE MIDDLE
