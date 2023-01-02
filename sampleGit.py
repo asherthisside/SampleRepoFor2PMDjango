@@ -1,0 +1,1 @@
+print("This file is the sample addition file for git")
